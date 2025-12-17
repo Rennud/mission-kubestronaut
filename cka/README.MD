@@ -33,6 +33,7 @@ The purpose of the **CKA** program is to provide assurance that CKAs have the sk
 ### 🎥 Video Courses
 
 - [Certified Kubernetes Administrator (CKA) – KodeKloud](https://kodekloud.com/courses/cka-certification-course-certified-kubernetes-administrator)
+- [CKA series](https://www.youtube.com/watch?v=kDZEiXHpEks&list=PLSsEvm2nF_8nGkhMyD1sq-DqjwQq8fAii)
 
 ### 🧪 Practice Tests
 

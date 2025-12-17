@@ -32,6 +32,7 @@ The **CKAD** exam certifies that candidates can design, build and deploy cloud-n
 ### 🎥 Video Courses
 
 - [Certified Kubernetes Application Developer (CKAD) – KodeKloud](https://kodekloud.com/courses/certified-kubernetes-application-developer-ckad)
+- [CKAD series](https://www.youtube.com/watch?v=mhFxH657lpw&list=PLSsEvm2nF_8npYf8cvoLsCsf6ki_togh0)
 
 ### 🧪 Practice Tests
 
