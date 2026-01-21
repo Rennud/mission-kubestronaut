@@ -9,7 +9,7 @@ Welcome! This folder is a curated set of resources I used to successfully prepar
 The **KCNA** exam demonstrates foundational knowledge of Kubernetes and cloud-native technologies.  
 
 **Exam Details:**
-- **Format:** Multiple Choice(One correct answer)  
+- **Format:** Multiple Choice(one correct answer)  
 - **Duration:** 90 minutes  
 - **Passing Score:** 75%  
 
