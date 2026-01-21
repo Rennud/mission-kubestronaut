@@ -22,8 +22,8 @@ This repository contains **resources and study materials** I’ve used to prepar
 | [KCNA](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) | ✅ Passed | [Badge](https://www.credly.com/badges/ef31475b-bdd9-4d4f-b5ea-eb28693992d1/public_url) | [KCNA Resources](./kcna/) |
 | [CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) | ✅ Passed | [Badge](https://www.credly.com/badges/a172b724-75ae-4441-9ff9-0d239df20778/public_url) | [CKA Resources](./cka/) |
 | [CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) | ✅ Passed | [Badge](https://www.credly.com/badges/765a8fb6-9f7f-4478-a30f-c8e160dee084/public_url) | [CKAD Resources](./ckad/) |
-| [CKS](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/) | 🧭 In Progress | | [CKS Resources](./cks/) |
-| [KCSA](https://training.linuxfoundation.org/certification/kubernetes-and-cloud-native-security-associate-kcsa/) | ⏳ Planned | | [KCSA Resources](./kcsa/) |
+| [CKS](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/) | ✅ Passed  | [Badge](https://www.credly.com/badges/e8856a0a-1f38-4489-bacd-3498a66d8db2/public_url)| [CKS Resources](./cks/) |
+| [KCSA](https://training.linuxfoundation.org/certification/kubernetes-and-cloud-native-security-associate-kcsa/) | ✅ Passed  | [Badge](https://www.credly.com/badges/d4456610-bd3a-48f4-b57b-55df81132738/public_url) | [KCSA Resources](./kcsa/) |
 
 ---
 
