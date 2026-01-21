@@ -10,7 +10,7 @@ The purpose of the **CKA** program is to provide assurance that CKAs have the sk
 
 **Exam Details:**
 - **Format:** Performance-Based Exam  
-- **Duration:** 90 minutes  
+- **Duration:** 120 minutes  
 - **Passing Score:** 66%  
 
 ---

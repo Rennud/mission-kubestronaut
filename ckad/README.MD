@@ -10,7 +10,7 @@ The **CKAD** exam certifies that candidates can design, build and deploy cloud-n
 
 **Exam Details:**
 - **Format:** Performance-Based Exam  
-- **Duration:** 90 minutes  
+- **Duration:** 120 minutes  
 - **Passing Score:** 66%  
 
 ---
