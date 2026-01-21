@@ -30,7 +30,7 @@ The **KCSA** validates foundational knowledge of security concepts and technolog
 
 ## 📚 Study Materials
 
-- [Kubernetes and Cloud Native Security Associate (KCSA)](https://learn.kodekloud.com/courses/kubernetes-and-cloud-native-security-associate-kcsa) - Comprehensive video course with quizzes and mock test.  
+- [Kubernetes and Cloud Native Security Associate (KCSA) - KodeKloud](https://learn.kodekloud.com/courses/kubernetes-and-cloud-native-security-associate-kcsa) - Comprehensive video course with quizzes and mock test.  
 
 ### 🧪 Practice Tests
 - [KCSA Practice Quizzes - Thiago S Shimada Ramos](https://kubernetes-security-kcsa-mock.vercel.app/) - Really nice mock tests

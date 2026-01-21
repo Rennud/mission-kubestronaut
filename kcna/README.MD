@@ -37,21 +37,12 @@ The **KCNA** exam demonstrates foundational knowledge of Kubernetes and cloud-na
 
 If you have **no prior experience with Kubernetes or cloud-native technologies**, it’s recommended to complete a foundational course before starting the KCNA preparation:  
 
-- [Kubernetes for the Absolute Beginners – Hands-On (KodeKloud)](https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners-hands-on) - Beginner-friendly, hands-on introduction to Kubernetes concepts.  
+- [Kubernetes for the Absolute Beginners – Hands-On - KodeKloud](https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners-hands-on) - Beginner-friendly, hands-on introduction to Kubernetes concepts.  
 - [Kubernetes and Cloud Native Associate (KCNA) – KodeKloud](https://kodekloud.com/courses/kubernetes-and-cloud-native-associate-kcna) - Comprehensive video course with quizzes and mock tests.  
 
 ### 🧪 Practice Tests
 - [KCNA Practice Quizzes – Purutu Ladhar](https://kcna.purutuladhar.com) - Short quizzes to reinforce concepts.  
 - [KCNA Practice Exams Sampler – Tutorials Dojo](https://portal.tutorialsdojo.com/courses/free-kubernetes-and-cloud-native-associate-kcna-practice-exams-sampler) - Sample practice questions for exam prep.  
-
----
-
-## 🔗 Useful Links
-
-- 📄 [Official KCNA Exam Page](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate)  
-- 📚 [Kubernetes Documentation](https://kubernetes.io/docs)  
-- 🧾 [Study Notes](https://notes.kaiwalyakoparkar.com/kcna/kubernetes-fundamentals/cncf-essential) - Quick review before the exam.  
-- 👨‍🏫 [Community Forum](https://kodekloud.com/community/c/cert/kcna/68)
 
 ---
 

@@ -17,8 +17,8 @@ The **CKAD** exam certifies that candidates can design, build and deploy cloud-n
 
 ## 🧩 Exam Domains & Competencies
 
-| Domain | Weight | Key Topics                                
-| ------------------------------------------------- | ------ | --- |
+| Domain | Weight | Key Topics |
+|--------|--------|------------|
 | Application Design & Build                        | 20%    | Container images, workload resources (Deployment, DaemonSet, CronJob), multi-container Pod patterns, volumes                               |
 | Application Deployment                            | 20%    | Deployment strategies (rolling, blue/green, canary), Helm, Kustomize                                                                       |
 | Application Observability & Maintenance           | 15%    | Probes & health checks, CLI monitoring, container logs, debugging, API deprecations                                                        |
@@ -35,16 +35,8 @@ The **CKAD** exam certifies that candidates can design, build and deploy cloud-n
 
 ### 🧪 Practice Tests
 
-- [Ultimate Certified Kubernetes Application Developer (CKAD) Mock Exam Series](https://kodekloud.com/courses/ultimate-certified-kubernetes-application-developer-ckad-mock-exam-series)
+- [Ultimate Certified Kubernetes Application Developer (CKAD) Mock Exam Series - KodeKloud](https://kodekloud.com/courses/ultimate-certified-kubernetes-application-developer-ckad-mock-exam-series)
 - [CKAD Simulator - killer.sh](https://killer.sh/ckad) - Once enrolled you will receive access to an exam simulator
-
----
-
-## 🔗 Useful Links
-
-- 📄 [Official CKAD Exam Page](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad)  
-- 📚 [Kubernetes Documentation](https://kubernetes.io/docs)  
-- 🧾 [Study Notes](https://notes.kaiwalyakoparkar.com/ckad)
 
 ---
 

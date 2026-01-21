@@ -17,8 +17,8 @@ The purpose of the **CKA** program is to provide assurance that CKAs have the sk
 
 ## 🧩 Exam Domains & Competencies
 
-| Domain                                             | Weight | Key Topics
-| -------------------------------------------------- | ------ | --- |
+| Domain | Weight | Key Topics |
+|--------|--------|------------|
 | Storage                                            | 10%    | Storage classes, dynamic volumes, PVs & PVCs, access modes, reclaim policies                                                 |
 | Troubleshooting                                    | 30%    | Cluster & node issues, component troubleshooting, resource monitoring, container logs, networking & services                 |
 | Workloads & Scheduling                             | 15%    | Deployments, rollouts & rollbacks, ConfigMaps & Secrets, autoscaling, self-healing workloads, pod scheduling & limits        |
@@ -36,16 +36,8 @@ The purpose of the **CKA** program is to provide assurance that CKAs have the sk
 
 ### 🧪 Practice Tests
 
-- [Ultimate Certified Kubernetes Administrator (CKA) Mock Exam Series](https://kodekloud.com/courses/ultimate-certified-kubernetes-administrator-cka-mock-exam)
+- [Ultimate Certified Kubernetes Administrator (CKA) Mock Exam Series - KodeKloud](https://kodekloud.com/courses/ultimate-certified-kubernetes-administrator-cka-mock-exam)
 - [CKA Simulator - killer.sh](https://killer.sh/cka) - Once enrolled you will receive access to an exam simulator
-
----
-
-## 🔗 Useful Links
-
-- 📄 [Official CKA Exam Page](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)  
-- 📚 [Kubernetes Documentation](https://kubernetes.io/docs/)  
-- 🧾 [Study Notes](https://notes.kaiwalyakoparkar.com/cka)
 
 ---
 
